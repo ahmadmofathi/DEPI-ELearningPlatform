@@ -1,0 +1,8 @@
+C:\Users\Mohamed Elkhodary\Desktop\learning\DepiFinalProject\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Elkhodary\Desktop\learning\DepiFinalProject\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.AssemblyInfoInputs.cache
+C:\Users\Mohamed Elkhodary\Desktop\learning\DepiFinalProject\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.AssemblyInfo.cs
+C:\Users\Mohamed Elkhodary\Desktop\learning\DepiFinalProject\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Elkhodary\Desktop\learning\DepiFinalProject\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed Elkhodary\Desktop\learning\DepiFinalProject\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.RazorAssemblyInfo.cache
+C:\Users\Mohamed Elkhodary\Desktop\learning\DepiFinalProject\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.RazorAssemblyInfo.cs
+C:\Users\Mohamed Elkhodary\Desktop\learning\DepiFinalProject\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.sourcelink.json

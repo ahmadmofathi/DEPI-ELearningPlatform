@@ -1,11 +1,4 @@
-using E_LearningPlatform.Context;
-using Microsoft.EntityFrameworkCore;
-
 var builder = WebApplication.CreateBuilder(args);
-
-//Injecting Contexts
-builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("Ahmad")));
-builder.Services.AddDbContext<AccountDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("Ahmad")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

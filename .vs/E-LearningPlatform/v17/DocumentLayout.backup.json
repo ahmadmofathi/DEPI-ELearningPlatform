@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|c:\\users\\mohamed elkhodary\\desktop\\learning\\depifinalproject\\e-learningplatform\\e-learningplatform.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|solutionrelative:e-learningplatform\\e-learningplatform.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,21 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "E-LearningPlatform.Web",
-              "DocumentMoniker": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform\\E-LearningPlatform.Web.csproj",
-              "RelativeDocumentMoniker": "E-LearningPlatform\\E-LearningPlatform.Web.csproj",
-              "ToolTip": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform\\E-LearningPlatform.Web.csproj",
-              "RelativeToolTip": "E-LearningPlatform\\E-LearningPlatform.Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-11T22:53:16.484Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"

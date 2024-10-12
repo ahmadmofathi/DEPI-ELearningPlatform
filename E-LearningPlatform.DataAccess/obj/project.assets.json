@@ -1577,44 +1577,6 @@
             "rid": "win"
           }
         }
-      },
-      "E-LearningPlatform/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/E-LearningPlatform.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/E-LearningPlatform.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
-      "E-LearningPlatform.Models/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "E-LearningPlatform": "1.0.0",
-          "E-LearningPlatform.Utility": "1.0.0",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10"
-        },
-        "compile": {
-          "bin/placeholder/E-LearningPlatform.Models.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/E-LearningPlatform.Models.dll": {}
-        }
-      },
-      "E-LearningPlatform.Utility/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/E-LearningPlatform.Utility.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/E-LearningPlatform.Utility.dll": {}
-        }
       }
     }
   },
@@ -4241,27 +4203,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "E-LearningPlatform/1.0.0": {
-      "type": "project",
-      "path": "../E-LearningPlatform/E-LearningPlatform.csproj",
-      "msbuildProject": "../E-LearningPlatform/E-LearningPlatform.csproj"
-    },
-    "E-LearningPlatform.Models/1.0.0": {
-      "type": "project",
-      "path": "../E-LearningPlatform.Models/E-LearningPlatform.Models.csproj",
-      "msbuildProject": "../E-LearningPlatform.Models/E-LearningPlatform.Models.csproj"
-    },
-    "E-LearningPlatform.Utility/1.0.0": {
-      "type": "project",
-      "path": "../E-LearningPlatform.Utility/E-LearningPlatform.Utility.csproj",
-      "msbuildProject": "../E-LearningPlatform.Utility/E-LearningPlatform.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "E-LearningPlatform.Models >= 1.0.0",
-      "E-LearningPlatform.Utility >= 1.0.0",
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10",
@@ -4269,19 +4215,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\": {}
+    "C:\\Users\\ahmad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
       "projectName": "E-LearningPlatform.DataAccess",
-      "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mohamed Elkhodary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4295,14 +4241,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.Models\\E-LearningPlatform.Models.csproj": {
-              "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.Models\\E-LearningPlatform.Models.csproj"
-            },
-            "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj": {
-              "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -4320,6 +4259,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[8.0.10, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.10, )"
@@ -4357,7 +4300,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

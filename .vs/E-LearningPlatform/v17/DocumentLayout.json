@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|c:\\users\\ahmad\\source\\repos\\e-learningplatform\\e-learningplatform\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|solutionrelative:e-learningplatform\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|c:\\users\\ahmad\\source\\repos\\e-learningplatform\\e-learningplatform\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|solutionrelative:e-learningplatform\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|c:\\users\\ahmad\\source\\repos\\e-learningplatform\\e-learningplatform\\views\\instructors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|solutionrelative:e-learningplatform\\views\\instructors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|c:\\users\\ahmad\\source\\repos\\e-learningplatform\\e-learningplatform\\views\\instructors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|solutionrelative:e-learningplatform\\views\\instructors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|c:\\users\\ahmad\\source\\repos\\e-learningplatform\\e-learningplatform\\views\\instructors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|solutionrelative:e-learningplatform\\views\\instructors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2C1EF1-AADD-49B5-8567-5448666C0E99}|E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj|c:\\users\\ahmad\\source\\repos\\e-learningplatform\\e-learningplatform.dataaccess\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2C1EF1-AADD-49B5-8567-5448666C0E99}|E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj|solutionrelative:e-learningplatform.dataaccess\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|c:\\users\\ahmad\\source\\repos\\e-learningplatform\\e-learningplatform\\views\\instructors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|solutionrelative:e-learningplatform\\views\\instructors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|c:\\users\\ahmad\\source\\repos\\e-learningplatform\\e-learningplatform\\views\\instructors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|solutionrelative:e-learningplatform\\views\\instructors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|c:\\users\\ahmad\\source\\repos\\e-learningplatform\\e-learningplatform\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|solutionrelative:e-learningplatform\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|c:\\users\\ahmad\\source\\repos\\e-learningplatform\\e-learningplatform\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|solutionrelative:e-learningplatform\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC65445B-B588-4B3B-9268-093AFEF90416}|E-LearningPlatform\\E-LearningPlatform.Web.csproj|c:\\users\\ahmad\\source\\repos\\e-learningplatform\\e-learningplatform\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -74,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,20 +110,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Users\\Delete.cshtml",
-              "RelativeDocumentMoniker": "E-LearningPlatform\\Views\\Users\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Users\\Delete.cshtml",
-              "RelativeToolTip": "E-LearningPlatform\\Views\\Users\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Instructors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "E-LearningPlatform\\Views\\Instructors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Instructors\\Delete.cshtml",
+              "RelativeToolTip": "E-LearningPlatform\\Views\\Instructors\\Delete.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwPR0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T20:39:44.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Instructors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E-LearningPlatform\\Views\\Instructors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Instructors\\Edit.cshtml",
+              "RelativeToolTip": "E-LearningPlatform\\Views\\Instructors\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T20:05:28.35Z",
+              "WhenOpened": "2024-10-14T20:38:24.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Instructors\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-LearningPlatform\\Views\\Instructors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Instructors\\Create.cshtml",
+              "RelativeToolTip": "E-LearningPlatform\\Views\\Instructors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T20:37:15.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.DataAccess\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "E-LearningPlatform.DataAccess\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.DataAccess\\Models\\Instructor.cs",
+              "RelativeToolTip": "E-LearningPlatform.DataAccess\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:35:38.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Instructors\\Details.cshtml",
+              "RelativeDocumentMoniker": "E-LearningPlatform\\Views\\Instructors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Instructors\\Details.cshtml",
+              "RelativeToolTip": "E-LearningPlatform\\Views\\Instructors\\Details.cshtml",
+              "ViewState": "AgIAAA0AAAAAJjMzMzMLwBwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T20:35:10.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Instructors\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-LearningPlatform\\Views\\Instructors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Instructors\\Index.cshtml",
+              "RelativeToolTip": "E-LearningPlatform\\Views\\Instructors\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T20:32:23.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InstructorsController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Controllers\\InstructorsController.cs",
+              "RelativeDocumentMoniker": "E-LearningPlatform\\Controllers\\InstructorsController.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Controllers\\InstructorsController.cs",
+              "RelativeToolTip": "E-LearningPlatform\\Controllers\\InstructorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:24:36.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Users\\Edit.cshtml",
               "RelativeDocumentMoniker": "E-LearningPlatform\\Views\\Users\\Edit.cshtml",
@@ -103,12 +209,11 @@
               "RelativeToolTip": "E-LearningPlatform\\Views\\Users\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T20:03:31.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T20:03:31.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "E-LearningPlatform\\Views\\Users\\Create.cshtml",
@@ -121,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Users\\Details.cshtml",
               "RelativeDocumentMoniker": "E-LearningPlatform\\Views\\Users\\Details.cshtml",
@@ -129,12 +234,11 @@
               "RelativeToolTip": "E-LearningPlatform\\Views\\Users\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T19:58:44.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T19:58:44.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "E-LearningPlatform\\Views\\Users\\Index.cshtml",
@@ -142,12 +246,11 @@
               "RelativeToolTip": "E-LearningPlatform\\Views\\Users\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T13:26:22.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T13:26:22.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "20241013132306_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.DataAccess\\Migrations\\20241013132306_InitialCreate.cs",
               "RelativeDocumentMoniker": "E-LearningPlatform.DataAccess\\Migrations\\20241013132306_InitialCreate.cs",
@@ -159,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\appsettings.json",
               "RelativeDocumentMoniker": "E-LearningPlatform\\appsettings.json",
@@ -171,20 +274,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "E-LearningPlatform\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Controllers\\UsersController.cs",
               "RelativeToolTip": "E-LearningPlatform\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAE4AAACA1szMzMwlwFQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAiwG8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T18:55:22.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "E-LearningPlatform\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "E-LearningPlatform\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T20:05:28.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "20241013132452_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.DataAccess\\Migrations\\AccountDb\\20241013132452_InitialCreate.cs",
               "RelativeDocumentMoniker": "E-LearningPlatform.DataAccess\\Migrations\\AccountDb\\20241013132452_InitialCreate.cs",
@@ -196,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "GenericService.cs",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.Utility\\Service\\GenericService.cs",
               "RelativeDocumentMoniker": "E-LearningPlatform.Utility\\Service\\GenericService.cs",
@@ -208,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "IGenericService.cs",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.Utility\\Service\\IGenericService.cs",
               "RelativeDocumentMoniker": "E-LearningPlatform.Utility\\Service\\IGenericService.cs",
@@ -220,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform\\Program.cs",
               "RelativeDocumentMoniker": "E-LearningPlatform\\Program.cs",
@@ -232,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "AccountDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.DataAccess\\Context\\AccountDbContext.cs",
               "RelativeDocumentMoniker": "E-LearningPlatform.DataAccess\\Context\\AccountDbContext.cs",
@@ -244,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.DataAccess\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "E-LearningPlatform.DataAccess\\Repository\\Repository.cs",
@@ -256,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "E-LearningPlatform.DataAccess\\Repository\\IRepository\\IRepository.cs",
@@ -268,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.DataAccess\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "E-LearningPlatform.DataAccess\\Context\\AppDbContext.cs",

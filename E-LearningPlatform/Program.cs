@@ -1,8 +1,23 @@
+using E_LearningPlatform.Context;
+using E_LearningPlatform.DataAccess.Context;
+using E_LearningPlatform.DataAccess.Repository;
+using E_LearningPlatform.DataAccess.Repository.IRepository;
+using E_LearningPlatform.Models;
+using E_LearningPlatform.Utility.Service;
+using Microsoft.EntityFrameworkCore;
+using System.Configuration;
+
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddDbContext<AccountDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<IRepository<User>,Repository<User>>();
+builder.Services.AddScoped<IGenericService<User>,GenericService<User>>();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

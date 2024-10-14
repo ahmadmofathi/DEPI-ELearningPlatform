@@ -26,3 +26,18 @@ C:\Users\Mohamed Elkhodary\Desktop\learning\DepiFinalProject\E-LearningPlatform.
 C:\Users\Mohamed Elkhodary\Desktop\learning\DepiFinalProject\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.pdb
 C:\Users\Mohamed Elkhodary\Desktop\learning\DepiFinalProject\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.genruntimeconfig.cache
 C:\Users\Mohamed Elkhodary\Desktop\learning\DepiFinalProject\E-LearningPlatform.DataAccess\obj\Debug\net8.0\ref\E-LearningPlatform.DataAccess.dll
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\bin\Debug\net8.0\E-LearningPlatform.DataAccess.deps.json
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\bin\Debug\net8.0\E-LearningPlatform.DataAccess.runtimeconfig.json
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\bin\Debug\net8.0\E-LearningPlatform.DataAccess.dll
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\bin\Debug\net8.0\E-LearningPlatform.DataAccess.pdb
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.sourcelink.json
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.dll
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\refint\E-LearningPlatform.DataAccess.dll
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.pdb
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.genruntimeconfig.cache
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\ref\E-LearningPlatform.DataAccess.dll

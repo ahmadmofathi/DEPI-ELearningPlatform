@@ -3,15 +3,20 @@
 @{
     ViewData["Title"] = "Index";
 }
+<div class="main-banner">
+    <div class="container">
 
-<h1>Index</h1>
+        <div class="d-flex align-items-center">
+            <h1 class="text-white">Index</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+            <p class="m-3">
+                <a asp-action="Create" class="btn btn-success">Create New</a>
+            </p>
+        </div>
+
 <table class="table">
     <thead>
-        <tr>
+        <tr class="text-white">
             <th>
                 @Html.DisplayNameFor(model => model.ProfilePicURL)
             </th>
@@ -51,3 +56,5 @@
 }
     </tbody>
 </table>
+    </div>
+</div>

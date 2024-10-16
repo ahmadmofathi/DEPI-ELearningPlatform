@@ -4,6 +4,7 @@ using E_LearningPlatform.DataAccess.Repository;
 using E_LearningPlatform.DataAccess.Repository.IRepository;
 using E_LearningPlatform.Models;
 using E_LearningPlatform.Utility.Service;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System.Configuration;
 
@@ -16,6 +17,13 @@ builder.Services.AddDbContext<AccountDbContext>(options =>
 
 builder.Services.AddScoped<IRepository<User>,Repository<User>>();
 builder.Services.AddScoped<IGenericService<User>,GenericService<User>>();
+builder.Services.AddIdentity<Account,IdentityRole>().AddEntityFrameworkStores<AccountDbContext>();
+builder.Services.ConfigureApplicationCookie(option=>
+{
+    option.LoginPath = "/Account/Login";
+    option.AccessDeniedPath = "/Account/AccessDenied";
+
+});
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 var app = builder.Build();
@@ -32,6 +40,8 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

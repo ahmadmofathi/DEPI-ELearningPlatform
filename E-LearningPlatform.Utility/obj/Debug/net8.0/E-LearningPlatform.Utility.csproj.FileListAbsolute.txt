@@ -28,3 +28,21 @@ C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.Utility\obj\De
 C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.pdb
 C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.genruntimeconfig.cache
 C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\ref\E-LearningPlatform.Utility.dll
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\bin\Debug\net8.0\E-LearningPlatform.Utility.deps.json
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\bin\Debug\net8.0\E-LearningPlatform.Utility.runtimeconfig.json
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\bin\Debug\net8.0\E-LearningPlatform.Utility.dll
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\bin\Debug\net8.0\E-LearningPlatform.Utility.pdb
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\bin\Debug\net8.0\E-LearningPlatform.DataAccess.dll
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\bin\Debug\net8.0\E-LearningPlatform.DataAccess.pdb
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.csproj.AssemblyReference.cache
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.AssemblyInfoInputs.cache
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.AssemblyInfo.cs
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.csproj.CoreCompileInputs.cache
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.sourcelink.json
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.csproj.CopyComplete
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.dll
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\refint\E-LearningPlatform.Utility.dll
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.pdb
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.genruntimeconfig.cache
+D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\ref\E-LearningPlatform.Utility.dll

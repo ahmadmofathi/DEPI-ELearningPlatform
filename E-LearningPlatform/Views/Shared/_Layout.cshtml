@@ -36,6 +36,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
+                    
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
                         <a href="~/Home" class="logo">
@@ -48,21 +49,32 @@
                             <li><a asp-controller="Shop" asp-action="Index">Our Shop</a></li>
                             <li><a asp-controller="Product" asp-action="Details">Product Details</a></li>
                             <li><a asp-controller="Contact" asp-action="Index">Contact Us</a></li>
-                            <li><a asp-controller="Account" asp-action="Login">Sign In</a></li>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <li>@User.Identity.Name</li>
+                                
+                            }else{
+                            <li><a asp-controller="Account" asp-action="Login">Log In</a></li>
+                            }
                         </ul>
                         <a class="menu-trigger">
                             <span>Menu</span>
                         </a>
                         <!-- ***** Menu End ***** -->
                     </nav>
+                   
                 </div>
             </div>
         </div>
     </header>
     <!-- ***** Header Area End ***** -->
     <!-- Main Content -->
-        @RenderBody()
 
+    <div>
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
     <!-- ***** Footer Start ***** -->
         <footer>
             <div class="container">

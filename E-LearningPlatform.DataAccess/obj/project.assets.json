@@ -4303,5 +4303,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

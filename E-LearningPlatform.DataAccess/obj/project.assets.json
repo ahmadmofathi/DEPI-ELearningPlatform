@@ -1578,24 +1578,11 @@
           }
         }
       },
-      "E-LearningPlatform/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/E-LearningPlatform.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/E-LearningPlatform.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
       "E-LearningPlatform.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "E-LearningPlatform": "1.0.0",
+          "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.csproj": "1.0.0",
           "E-LearningPlatform.Utility": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10"
         },
@@ -4242,11 +4229,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "E-LearningPlatform/1.0.0": {
-      "type": "project",
-      "path": "../E-LearningPlatform/E-LearningPlatform.csproj",
-      "msbuildProject": "../E-LearningPlatform/E-LearningPlatform.csproj"
-    },
     "E-LearningPlatform.Models/1.0.0": {
       "type": "project",
       "path": "../E-LearningPlatform.Models/E-LearningPlatform.Models.csproj",
@@ -4274,11 +4256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
       "projectName": "E-LearningPlatform.DataAccess",
-      "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mohamed Elkhodary\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4296,11 +4278,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.Models\\E-LearningPlatform.Models.csproj": {
-              "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.Models\\E-LearningPlatform.Models.csproj"
+            "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Models\\E-LearningPlatform.Models.csproj": {
+              "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Models\\E-LearningPlatform.Models.csproj"
             },
-            "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj": {
-              "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj"
+            "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj": {
+              "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj"
             }
           }
         }
@@ -4360,5 +4342,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

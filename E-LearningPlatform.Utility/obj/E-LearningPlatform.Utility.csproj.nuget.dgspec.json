@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj": {}
+    "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj": {
+    "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
         "projectName": "E-LearningPlatform.Utility",
-        "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
+        "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
         "packagesPath": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DepiFinalProject\\E-LearningPlatform.Utility\\obj\\",
+        "outputPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohamed Elkhodary\\AppData\\Roaming\\NuGet\\NuGet.Config",

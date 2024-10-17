@@ -1020,7 +1020,7 @@ CTA Style
 
 .cta::after {
   background-image: url(../images/cta-bg.jpg);
-  max-width: 550px;
+  max-width: 500px;
   max-height: 510px;
   width: 100%;
   height: 100%;

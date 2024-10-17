@@ -552,3 +552,12 @@ D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ahmad\source\repos\E-LearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.JSInterop.dll

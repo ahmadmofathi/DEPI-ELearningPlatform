@@ -5,24 +5,23 @@
 <div class="main-banner">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 align-self-center">
+            <div class="col-lg-6 align-self-center" id="home">
                 <div class="caption header-text">
-                    <h6>Welcome to lugx</h6>
-                    <h2>BEST GAMING SITE EVER!</h2>
-                    <p>LUGX Gaming is free Bootstrap 5 HTML CSS website template for your gaming websites. You can download and use this layout for commercial purposes. Please tell your friends about TemplateMo.</p>
+                    <h6>Welcome to LearnX</h6>
+                    <h2>Your Gateway to Quality Online Education!</h2>
+                    <p>LearnX is the best e-learning platform that offers a wide range of courses to help you expand your knowledge and skills. Join thousands of learners worldwide and start your journey to success. Sign up today and get access to high-quality educational content.</p>
                     <div class="search-input">
                         <form id="search" action="#">
-                            <input type="text" placeholder="Type Something" id='searchText' name="searchKeyword" onkeypress="handle" />
-                            <button role="button">Search Now</button>
+                            <input type="text" placeholder="Search for courses, topics, or instructors" id='searchText' name="searchKeyword" />
+                            <button role="button">Search Courses</button>
                         </form>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 offset-lg-2">
                 <div class="right-image">
-                    <img src="images/banner-image.jpg" alt="">
-                    <span class="price">$22</span>
-                    <span class="offer">-40%</span>
+                    <img src="images/1263.jpg" alt="E-learning Banner Image">
+                    <span class="offer">40%</span>
                 </div>
             </div>
         </div>
@@ -36,9 +35,10 @@
                 <a href="#">
                     <div class="item">
                         <div class="image">
-                            <img src="images/featured-01.png" alt="" style="max-width: 44px;">
+                            <img src="images/featured-04.png" alt="Online Courses" style="max-width: 44px;">
                         </div>
-                        <h4>Free Storage</h4>
+                        <h4>Interactive Courses</h4>
+                        <p>Engage with hands-on learning practical exercises.</p>
                     </div>
                 </a>
             </div>
@@ -46,9 +46,10 @@
                 <a href="#">
                     <div class="item">
                         <div class="image">
-                            <img src="images/featured-02.png" alt="" style="max-width: 44px;">
+                            <img src="images/featured-02.png" alt="Expert Tutors" style="max-width: 44px;">
                         </div>
-                        <h4>User More</h4>
+                        <h4>Expert Tutors</h4>
+                        <p>Learn from industry professionals and seasoned educators.</p>
                     </div>
                 </a>
             </div>
@@ -56,9 +57,10 @@
                 <a href="#">
                     <div class="item">
                         <div class="image">
-                            <img src="images/featured-03.png" alt="" style="max-width: 44px;">
+                            <img src="images/featured-03.png" alt="Certification" style="max-width: 44px;">
                         </div>
-                        <h4>Reply Ready</h4>
+                        <h4>Certification</h4>
+                        <p>Earn certificates that add value to your resume and career.</p>
                     </div>
                 </a>
             </div>
@@ -66,9 +68,10 @@
                 <a href="#">
                     <div class="item">
                         <div class="image">
-                            <img src="images/featured-04.png" alt="" style="max-width: 44px;">
+                            <img src="images/featured-01.png" alt="Access Anywhere" style="max-width: 44px;">
                         </div>
-                        <h4>Easy Layout</h4>
+                        <h4>Access Anywhere</h4>
+                        <p>Learn at your own pace from any device, anytime, anywhere.</p>
                     </div>
                 </a>
             </div>
@@ -76,29 +79,30 @@
     </div>
 </div>
 
-<div class="section trending">
+
+<div class="section trending" id="courses">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
                 <div class="section-heading">
                     <h6>Trending</h6>
-                    <h2>Trending Games</h2>
+                    <h2>Trending Courses</h2>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="main-button">
-                    <a href="shop.html">View All</a>
+                    <a asp-controller="Courses" asp-action="Index">View All</a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/trending-01.jpg" alt=""></a>
+                        <a href="product-details.html"><img src="images/html.jpg" alt=""></a>
                         <span class="price"><em>$28</em>$20</span>
                     </div>
                     <div class="down-content">
-                        <span class="category">Action</span>
-                        <h4>Assasin Creed</h4>
+                        <span class="category">Front-end Development</span>
+                        <h4>HTML</h4>
                         <a href="product-details.html"><i class="fa fa-shopping-bag"></i></a>
                     </div>
                 </div>
@@ -106,12 +110,12 @@
             <div class="col-lg-3 col-md-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/trending-02.jpg" alt=""></a>
+                        <a href="product-details.html"><img src="images/prgramming.jpg" alt=""></a>
                         <span class="price">$44</span>
                     </div>
                     <div class="down-content">
-                        <span class="category">Action</span>
-                        <h4>Assasin Creed</h4>
+                        <span class="category">Programming</span>
+                        <h4>C# Basics</h4>
                         <a href="product-details.html"><i class="fa fa-shopping-bag"></i></a>
                     </div>
                 </div>
@@ -119,12 +123,12 @@
             <div class="col-lg-3 col-md-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/trending-03.jpg" alt=""></a>
+                        <a href="product-details.html"><img src="images/mobile.jpg" alt=""></a>
                         <span class="price"><em>$64</em>$44</span>
                     </div>
                     <div class="down-content">
-                        <span class="category">Action</span>
-                        <h4>Assasin Creed</h4>
+                        <span class="category">Mobile Development</span>
+                        <h4>Flutter</h4>
                         <a href="product-details.html"><i class="fa fa-shopping-bag"></i></a>
                     </div>
                 </div>
@@ -132,12 +136,12 @@
             <div class="col-lg-3 col-md-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/trending-04.jpg" alt=""></a>
+                        <a href="product-details.html"><img src="images/networks.jpg" alt=""></a>
                         <span class="price">$32</span>
                     </div>
                     <div class="down-content">
-                        <span class="category">Action</span>
-                        <h4>Assasin Creed</h4>
+                        <span class="category">Networks</span>
+                        <h4>CCNA</h4>
                         <a href="product-details.html"><i class="fa fa-shopping-bag"></i></a>
                     </div>
                 </div>
@@ -146,13 +150,13 @@
     </div>
 </div>
 
-<div class="section most-played">
+<div class="section most-played" id="instructors">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
                 <div class="section-heading">
-                    <h6>TOP GAMES</h6>
-                    <h2>Most Played</h2>
+                    <h6>TOP</h6>
+                    <h2>Instructors</h2>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -163,11 +167,11 @@
             <div class="col-lg-2 col-md-6 col-sm-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/top-game-01.jpg" alt=""></a>
+                        <a href="product-details.html"><img src="images/A1.jpg" alt=""></a>
                     </div>
                     <div class="down-content">
-                        <span class="category">Adventure</span>
-                        <h4>Assasin Creed</h4>
+                        <span class="category">Web</span>
+                        <h4>Ahmad Fathy</h4>
                         <a href="product-details.html">Explore</a>
                     </div>
                 </div>
@@ -175,11 +179,11 @@
             <div class="col-lg-2 col-md-6 col-sm-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/top-game-02.jpg" alt=""></a>
+                        <a href="product-details.html"><img src="images/M1.jpg" alt=""></a>
                     </div>
                     <div class="down-content">
-                        <span class="category">Adventure</span>
-                        <h4>Assasin Creed</h4>
+                        <span class="category">Mobile</span>
+                        <h4>Mohamed Khaled</h4>
                         <a href="product-details.html">Explore</a>
                     </div>
                 </div>
@@ -187,11 +191,11 @@
             <div class="col-lg-2 col-md-6 col-sm-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/top-game-03.jpg" alt=""></a>
+                        <a href="product-details.html"><img src="images/M2.jpg" alt=""></a>
                     </div>
                     <div class="down-content">
-                        <span class="category">Adventure</span>
-                        <h4>Assasin Creed</h4>
+                        <span class="category">Networks</span>
+                        <h4>Mohamed Ashraf</h4>
                         <a href="product-details.html">Explore</a>
                     </div>
                 </div>
@@ -199,11 +203,11 @@
             <div class="col-lg-2 col-md-6 col-sm-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/top-game-04.jpg" alt=""></a>
+                        <a href="product-details.html"><img src="images/A2.jpg" alt=""></a>
                     </div>
                     <div class="down-content">
-                        <span class="category">Adventure</span>
-                        <h4>Assasin Creed</h4>
+                        <span class="category">Web</span>
+                        <h4>Ahmad Fathy</h4>
                         <a href="product-details.html">Explore</a>
                     </div>
                 </div>
@@ -211,11 +215,11 @@
             <div class="col-lg-2 col-md-6 col-sm-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/top-game-05.jpg" alt=""></a>
+                        <a href="product-details.html"><img src="images/A3.jpg" alt=""></a>
                     </div>
                     <div class="down-content">
-                        <span class="category">Adventure</span>
-                        <h4>Assasin Creed</h4>
+                        <span class="category">Programming</span>
+                        <h4>Ahmad Fathy</h4>
                         <a href="product-details.html">Explore</a>
                     </div>
                 </div>
@@ -223,11 +227,11 @@
             <div class="col-lg-2 col-md-6 col-sm-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/top-game-06.jpg" alt=""></a>
+                        <a href="product-details.html"><img src="images/A4.jpg" alt=""></a>
                     </div>
                     <div class="down-content">
-                        <span class="category">Adventure</span>
-                        <h4>Assasin Creed</h4>
+                        <span class="category">Web</span>
+                        <h4>Ahmad Fathy</h4>
                         <a href="product-details.html">Explore</a>
                     </div>
                 </div>
@@ -235,59 +239,59 @@
         </div>
     </div>
 </div>
-
-<div class="section categories">
+<div class="section categories" id="categories">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div class="section-heading">
-                    <h6>Categories</h6>
-                    <h2>Top Categories</h2>
+                    <h6>Explore</h6>
+                    <h2>Top Learning Categories</h2>
                 </div>
             </div>
             <div class="col-lg col-sm-6 col-xs-12">
                 <div class="item">
-                    <h4>Action</h4>
+                    <h4>Web Development</h4>
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/categories-01.jpg" alt=""></a>
+                        <a href="web-development.html"><img src="https://intersmart.ae/wp-content/uploads/2024/04/The-Essential-Web-Development-Tools-Every-Developer-Should-Know.png" width="777" height="150" alt="Web Development"></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg col-sm-6 col-xs-12">
                 <div class="item">
-                    <h4>Action</h4>
+                    <h4>Data Science</h4>
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/categories-05.jpg" alt=""></a>
+                        <a href="data-science.html"><img src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/Data%20Science%201600x800.jpg" width="777" height="150" alt="Data Science"></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg col-sm-6 col-xs-12">
                 <div class="item">
-                    <h4>Action</h4>
+                    <h4>Graphic Design</h4>
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/categories-03.jpg" alt=""></a>
+                        <a href="graphic-design.html"><img src="https://ergasti.com/wp-content/uploads/2024/04/DALL%C2%B7E-2024-04-23-13.05.35-Create-a-photo-banner-for-an-article-titled-_What-are-the-8-Types-of-Graphic-Design_.-The-image-should-feature-a-collage-of-different-graphic-design-e-750x500.webp" width="777" height="150" alt="Graphic Design"></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg col-sm-6 col-xs-12">
                 <div class="item">
-                    <h4>Action</h4>
+                    <h4>Business </h4>
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/categories-04.jpg" alt=""></a>
+                        <a href="business-management.html"><img src="https://citycolleges.ie/wp-content/uploads/sites/2/2022/02/business-courses.jpg" width="777" height="150" alt="Business Management"></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg col-sm-6 col-xs-12">
                 <div class="item">
-                    <h4>Action</h4>
+                    <h4>Marketing</h4>
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/categories-05.jpg" alt=""></a>
+                        <a href="marketing.html"><img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/how-to-become-a-digital-marketing-specialist-article.jpg" width="777" height="150" alt="Marketing"></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
+
 
 <div class="section cta">
     <div class="container">
@@ -297,12 +301,12 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="section-heading">
-                                <h6>Our Shop</h6>
-                                <h2>Go Pre-Order Buy & Get Best <em>Prices</em> For You!</h2>
+                                <h6>Our Courses</h6>
+                                <h2>Explore & Pre-Register to <em>Get Discounts</em> on Upcoming Courses!</h2>
                             </div>
-                            <p>Lorem ipsum dolor consectetur adipiscing, sed do eiusmod tempor incididunt.</p>
+                            <p>Stay ahead of the curve with our pre-registration offers on the latest courses in web development, data science, design, and more.</p>
                             <div class="main-button">
-                                <a href="shop.html">Shop Now</a>
+                                <a href="courses.html">Browse Courses</a>
                             </div>
                         </div>
                     </div>
@@ -314,11 +318,11 @@
                         <div class="col-lg-12">
                             <div class="section-heading">
                                 <h6>NEWSLETTER</h6>
-                                <h2>Get Up To $100 Off Just Buy <em>Subscribe</em> Newsletter!</h2>
+                                <h2>Get the Latest <em>Course Updates</em> and Exclusive Offers!</h2>
                             </div>
                             <div class="search-input">
                                 <form id="subscribe" action="#">
-                                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Your email...">
+                                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email...">
                                     <button type="submit">Subscribe Now</button>
                                 </form>
                             </div>

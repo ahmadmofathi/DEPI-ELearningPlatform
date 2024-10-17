@@ -4235,19 +4235,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ahmad\\.nuget\\packages\\": {}
+    "C:\\Users\\mk890\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
+      "projectUniqueName": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
       "projectName": "E-LearningPlatform.Utility",
-      "projectPath": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
-      "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.Utility\\obj\\",
+      "projectPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
+      "packagesPath": "C:\\Users\\mk890\\.nuget\\packages\\",
+      "outputPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mk890\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4255,15 +4255,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\ahmad\\source\\repos\\E-LearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj"
+            "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj": {
+              "projectPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj"
             }
           }
         }
@@ -4272,11 +4271,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4320,7 +4314,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

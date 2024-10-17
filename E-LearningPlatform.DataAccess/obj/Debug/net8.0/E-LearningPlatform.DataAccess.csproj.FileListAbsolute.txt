@@ -56,3 +56,18 @@ D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.pdb
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.genruntimeconfig.cache
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\ref\E-LearningPlatform.DataAccess.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\bin\Debug\net8.0\E-LearningPlatform.DataAccess.deps.json
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\bin\Debug\net8.0\E-LearningPlatform.DataAccess.runtimeconfig.json
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\bin\Debug\net8.0\E-LearningPlatform.DataAccess.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\bin\Debug\net8.0\E-LearningPlatform.DataAccess.pdb
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.AssemblyInfo.cs
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.sourcelink.json
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\refint\E-LearningPlatform.DataAccess.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.pdb
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\E-LearningPlatform.DataAccess.genruntimeconfig.cache
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.DataAccess\obj\Debug\net8.0\ref\E-LearningPlatform.DataAccess.dll

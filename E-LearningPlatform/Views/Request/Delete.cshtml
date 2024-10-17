@@ -1,0 +1,33 @@
+﻿@model Request
+
+@{
+    ViewData["Title"] = "Delete Request";
+}
+
+<h2>Delete Request</h2>
+
+<div class="alert alert-warning" role="alert">
+    <strong>Warning!</strong> Are you sure you want to delete this request?
+</div>
+
+<form id="deleteForm" asp-action="Delete" method="post" onsubmit="return confirm('Are you sure you want to delete this request?');">
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <textarea asp-for="Description" class="form-control" readonly></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="RequestStatus" class="control-label"></label>
+        <input asp-for="RequestStatus" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="CreationDate" class="control-label"></label>
+        <input asp-for="CreationDate" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Delete" class="btn btn-danger form-control" />
+    </div>
+</form>
+
+<div class="form-group mt-2">
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

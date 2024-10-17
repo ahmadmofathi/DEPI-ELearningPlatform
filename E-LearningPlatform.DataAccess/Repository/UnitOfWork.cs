@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TechneStore.DataAccess.Repository.IRepository;
+using E_LearningPlatform.DataAccess.Repository.IRepository;
 using E_LearningPlatform.DataAccess.Context;
+using E_LearningPlatform.DataAccess.Repository;
 
-namespace TechneStore.DataAccess.Repository
+namespace E_LearningPlatform.DataAccess.Repository
 {
     public class UnitOfWork : IUnitOfWork
     {

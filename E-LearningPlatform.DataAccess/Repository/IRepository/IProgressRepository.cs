@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace TechneStore.DataAccess.Repository.IRepository
+namespace E_LearningPlatform.DataAccess.Repository.IRepository
 {
     public interface IProgressRepository : IRepository<Progress>
     {

@@ -82,7 +82,60 @@ namespace E_LearningPlatform.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Account");
+                    b.ToTable("Accounts");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = "7fdd22b5-e225-4071-8a1a-a4742bf984fc",
+                            AccessFailedCount = 0,
+                            AccountId = 1,
+                            ConcurrencyStamp = "118825f2-82af-4214-b795-1ddc20da12de",
+                            Email = "dev@example.com",
+                            EmailConfirmed = false,
+                            FirstName = "Mohamed",
+                            LastName = "Khaled",
+                            LockoutEnabled = false,
+                            PasswordHash = "hashedPassword1",
+                            PhoneNumberConfirmed = false,
+                            SecurityStamp = "864331b4-869c-420b-87d8-149e5aa375c2",
+                            TwoFactorEnabled = false,
+                            UserName = "mokhaled"
+                        },
+                        new
+                        {
+                            Id = "322337c3-589f-4e5f-9681-b2357a142e90",
+                            AccessFailedCount = 0,
+                            AccountId = 2,
+                            ConcurrencyStamp = "1aef65b4-1718-4f4b-8bf7-9728c51819c2",
+                            Email = "design@example.com",
+                            EmailConfirmed = false,
+                            FirstName = "Ahmed",
+                            LastName = "Fathi",
+                            LockoutEnabled = false,
+                            PasswordHash = "hashedPassword2",
+                            PhoneNumberConfirmed = false,
+                            SecurityStamp = "8ac64b2e-d24c-4a11-b4a7-ac6b9dacf4ac",
+                            TwoFactorEnabled = false,
+                            UserName = "Ahmed"
+                        },
+                        new
+                        {
+                            Id = "b983ee66-785a-496e-a2a5-ecc5a859d4a4",
+                            AccessFailedCount = 0,
+                            AccountId = 3,
+                            ConcurrencyStamp = "5d467e6a-73c5-46fa-82da-5722f31cee5c",
+                            Email = "marketing@example.com",
+                            EmailConfirmed = false,
+                            FirstName = "Mohamed",
+                            LastName = "Ashraf",
+                            LockoutEnabled = false,
+                            PasswordHash = "hashedPassword3",
+                            PhoneNumberConfirmed = false,
+                            SecurityStamp = "3775ac6e-8156-475c-81f5-6d89370e7101",
+                            TwoFactorEnabled = false,
+                            UserName = "moAshraf"
+                        });
                 });
 
             modelBuilder.Entity("E_LearningPlatform.Models.Category", b =>
@@ -101,6 +154,23 @@ namespace E_LearningPlatform.DataAccess.Migrations
                     b.HasKey("CategoryId");
 
                     b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            CategoryId = 1,
+                            CategoryName = "Development"
+                        },
+                        new
+                        {
+                            CategoryId = 2,
+                            CategoryName = "Design"
+                        },
+                        new
+                        {
+                            CategoryId = 3,
+                            CategoryName = "Marketing"
+                        });
                 });
 
             modelBuilder.Entity("E_LearningPlatform.Models.Course", b =>
@@ -134,6 +204,35 @@ namespace E_LearningPlatform.DataAccess.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("Courses");
+
+                    b.HasData(
+                        new
+                        {
+                            CourseId = 1,
+                            CategoryId = 1,
+                            CourseName = "ASP.NET Core",
+                            Description = "Learn ASP.NET Core",
+                            NoOfVideos = 10,
+                            Price = 99
+                        },
+                        new
+                        {
+                            CourseId = 2,
+                            CategoryId = 2,
+                            CourseName = "Photoshop Basics",
+                            Description = "Learn the basics of Photoshop",
+                            NoOfVideos = 5,
+                            Price = 49
+                        },
+                        new
+                        {
+                            CourseId = 3,
+                            CategoryId = 3,
+                            CourseName = "Digital Marketing",
+                            Description = "Introduction to Digital Marketing",
+                            NoOfVideos = 8,
+                            Price = 79
+                        });
                 });
 
             modelBuilder.Entity("E_LearningPlatform.Models.Enrollment", b =>
@@ -155,7 +254,32 @@ namespace E_LearningPlatform.DataAccess.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("UserId");
+
                     b.ToTable("Enrollments");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CourseId = 1,
+                            StartDate = new DateTime(2024, 10, 17, 11, 22, 12, 435, DateTimeKind.Utc).AddTicks(6756),
+                            UserId = 1
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CourseId = 2,
+                            StartDate = new DateTime(2024, 10, 17, 11, 22, 12, 435, DateTimeKind.Utc).AddTicks(6760),
+                            UserId = 2
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CourseId = 3,
+                            StartDate = new DateTime(2024, 10, 17, 11, 22, 12, 435, DateTimeKind.Utc).AddTicks(6761),
+                            UserId = 3
+                        });
                 });
 
             modelBuilder.Entity("E_LearningPlatform.Models.Instructor", b =>
@@ -180,6 +304,29 @@ namespace E_LearningPlatform.DataAccess.Migrations
                     b.HasIndex("UserId");
 
                     b.ToTable("Instructors");
+
+                    b.HasData(
+                        new
+                        {
+                            InstructorId = 1,
+                            Qualifications = "PhD in Computer Science",
+                            SocialMediaLink = "https://twitter.com/instructor1",
+                            UserId = 1
+                        },
+                        new
+                        {
+                            InstructorId = 2,
+                            Qualifications = "MFA in Design",
+                            SocialMediaLink = "https://linkedin.com/instructor2",
+                            UserId = 2
+                        },
+                        new
+                        {
+                            InstructorId = 3,
+                            Qualifications = "MBA in Marketing",
+                            SocialMediaLink = "https://instagram.com/instructor3",
+                            UserId = 3
+                        });
                 });
 
             modelBuilder.Entity("E_LearningPlatform.Models.Progress", b =>
@@ -193,9 +340,6 @@ namespace E_LearningPlatform.DataAccess.Migrations
                     b.Property<int>("EnrollmentId")
                         .HasColumnType("int");
 
-                    b.Property<int>("UserId")
-                        .HasColumnType("int");
-
                     b.Property<int>("VideoId")
                         .HasColumnType("int");
 
@@ -203,9 +347,29 @@ namespace E_LearningPlatform.DataAccess.Migrations
 
                     b.HasIndex("EnrollmentId");
 
-                    b.HasIndex("UserId");
+                    b.HasIndex("VideoId");
 
-                    b.ToTable("Progress");
+                    b.ToTable("Progresses");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            EnrollmentId = 1,
+                            VideoId = 1
+                        },
+                        new
+                        {
+                            Id = 2,
+                            EnrollmentId = 2,
+                            VideoId = 2
+                        },
+                        new
+                        {
+                            Id = 3,
+                            EnrollmentId = 3,
+                            VideoId = 3
+                        });
                 });
 
             modelBuilder.Entity("E_LearningPlatform.Models.Request", b =>
@@ -235,7 +399,36 @@ namespace E_LearningPlatform.DataAccess.Migrations
 
                     b.HasKey("RequestId");
 
-                    b.ToTable("requests");
+                    b.ToTable("Requests");
+
+                    b.HasData(
+                        new
+                        {
+                            RequestId = 1,
+                            CourseId = 1,
+                            CreationDate = new DateTime(2024, 10, 17, 11, 22, 12, 435, DateTimeKind.Utc).AddTicks(6805),
+                            Description = "Request for additional materials",
+                            RequestStatus = "Pending",
+                            UserId = 1
+                        },
+                        new
+                        {
+                            RequestId = 2,
+                            CourseId = 2,
+                            CreationDate = new DateTime(2024, 10, 17, 11, 22, 12, 435, DateTimeKind.Utc).AddTicks(6807),
+                            Description = "Request for a refund",
+                            RequestStatus = "Completed",
+                            UserId = 2
+                        },
+                        new
+                        {
+                            RequestId = 3,
+                            CourseId = 3,
+                            CreationDate = new DateTime(2024, 10, 17, 11, 22, 12, 435, DateTimeKind.Utc).AddTicks(6808),
+                            Description = "Request for course feedback",
+                            RequestStatus = "In Progress",
+                            UserId = 3
+                        });
                 });
 
             modelBuilder.Entity("E_LearningPlatform.Models.User", b =>
@@ -322,6 +515,17 @@ namespace E_LearningPlatform.DataAccess.Migrations
                     b.Navigation("Category");
                 });
 
+            modelBuilder.Entity("E_LearningPlatform.Models.Enrollment", b =>
+                {
+                    b.HasOne("E_LearningPlatform.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("E_LearningPlatform.Models.Instructor", b =>
                 {
                     b.HasOne("E_LearningPlatform.Models.User", "User")
@@ -335,19 +539,21 @@ namespace E_LearningPlatform.DataAccess.Migrations
 
             modelBuilder.Entity("E_LearningPlatform.Models.Progress", b =>
                 {
-                    b.HasOne("E_LearningPlatform.Models.Enrollment", null)
+                    b.HasOne("E_LearningPlatform.Models.Enrollment", "Enrollment")
                         .WithMany("Progresses")
                         .HasForeignKey("EnrollmentId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("E_LearningPlatform.Models.User", "User")
+                    b.HasOne("E_LearningPlatform.Models.Video", "Video")
                         .WithMany()
-                        .HasForeignKey("UserId")
+                        .HasForeignKey("VideoId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("User");
+                    b.Navigation("Enrollment");
+
+                    b.Navigation("Video");
                 });
 
             modelBuilder.Entity("E_LearningPlatform.Models.User", b =>

@@ -1,4 +1,6 @@
-﻿namespace E_LearningPlatform.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace E_LearningPlatform.Models
 {
     public class User
     {

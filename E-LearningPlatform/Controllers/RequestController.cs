@@ -1,11 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TechneStore.DataAccess;
+using E_LearningPlatform.DataAccess;
 using System.Collections.Generic;
 using System.Linq;
-using TechneStore.DataAccess.Repository;
-using TechneStore.DataAccess.Repository.IRepository;
+using E_LearningPlatform.DataAccess.Repository;
+using E_LearningPlatform.DataAccess.Repository.IRepository;
 using E_LearningPlatform.Models;
-namespace TechneStoreWeb.Areas.Admin.Controllers
+
+namespace E_LearningPlatformWeb.Areas.Admin.Controllers
 {
     public class RequestController : Controller
     {
@@ -16,87 +17,97 @@ namespace TechneStoreWeb.Areas.Admin.Controllers
             this.unitOfWork = unitOfWork;
         }
 
+        // GET: Request
         public IActionResult Index()
         {
-            List<Enrollment> enrollments = unitOfWork.Enrollment.GetAll().ToList();
-            return View(enrollments);
+            List<Request> requests = unitOfWork.Request.GetAll().ToList();
+            return View(requests);
         }
 
+        // GET: Request/Create
         public IActionResult Create()
         {
             return View();
         }
 
+        // POST: Request/Create
         [HttpPost]
-        public IActionResult Create(Enrollment enrollment)
+        [ValidateAntiForgeryToken]
+        public IActionResult Create(Request request)
         {
             if (ModelState.IsValid)
             {
-                unitOfWork.Enrollment.Add(enrollment);
+                unitOfWork.Request.Add(request);
                 unitOfWork.Save();
                 TempData["success"] = "Request Sent Successfully";
                 return RedirectToAction("Index");
             }
-            TempData["Error"] = "Error";
-            return View("Create");
+            TempData["Error"] = "Error occurred while sending the request.";
+            return View(request);
         }
 
+        // GET: Request/Edit/5
         public IActionResult Edit(int? id)
         {
             if (id == null || id == 0)
             {
-                TempData["Error"] = "Invalid Request";
+                TempData["Error"] = "Invalid Request ID.";
                 return RedirectToAction("Index");
             }
-            Enrollment? enrollmentFromDb = unitOfWork.Enrollment.Get(u => u.Id == id);
-            if (enrollmentFromDb == null)
+            Request requestFromDb = unitOfWork.Request.Get(u => u.RequestId == id);
+            if (requestFromDb == null)
             {
-                TempData["Error"] = "Request Not Sent!";
+                TempData["Error"] = "Request Not Found.";
                 return RedirectToAction("Index");
             }
-            return View(enrollmentFromDb);
+            return View(requestFromDb);
         }
 
+        // POST: Request/Edit/5
         [HttpPost]
-        public IActionResult Edit(Enrollment enrollment)
+        [ValidateAntiForgeryToken]
+        public IActionResult Edit(Request request)
         {
             if (ModelState.IsValid)
             {
-                unitOfWork.Enrollment.Update(enrollment);
+                unitOfWork.Request.Update(request);
                 unitOfWork.Save();
-                TempData["success"] = "Request Sent Successfully";
+                TempData["success"] = "Request Updated Successfully";
                 return RedirectToAction("Index");
             }
-            TempData["Error"] = "Error!";
-            return View();
+            TempData["Error"] = "Error occurred while updating the request.";
+            return View(request);
         }
 
+        // GET: Request/Delete/5
         public IActionResult Delete(int? id)
         {
             if (id == null || id == 0)
             {
-                TempData["Error"] = "Error";
+                TempData["Error"] = "Invalid Request ID.";
                 return RedirectToAction("Index");
             }
-            Enrollment? enrollmentFromDb = unitOfWork.Enrollment.Get(u => u.Id == id);
-            if (enrollmentFromDb == null)
+            Request requestFromDb = unitOfWork.Request.Get(u => u.RequestId == id);
+            if (requestFromDb == null)
             {
-                TempData["Error"] = "Error!";
+                TempData["Error"] = "Request Not Found.";
                 return RedirectToAction("Index");
             }
-            return View(enrollmentFromDb);
+            return View(requestFromDb);
         }
 
+        // POST: Request/Delete/5
         [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
         public IActionResult DeletePost(int? id)
         {
-            Enrollment? enrollmentFromDb = unitOfWork.Enrollment.Get(u => u.Id == id);
-            if (enrollmentFromDb == null)
+            Request requestFromDb = unitOfWork.Request.Get(u => u.RequestId == id);
+            if (requestFromDb == null)
             {
-                TempData["Error"] = "Error!";
+                TempData["Error"] = "Request Not Found.";
                 return RedirectToAction("Index");
             }
-            unitOfWork.Enrollment.Remove(enrollmentFromDb);
+            unitOfWork.Request.Remove(requestFromDb);
             unitOfWork.Save();
             TempData["success"] = "Request Deleted Successfully";
             return RedirectToAction("Index");

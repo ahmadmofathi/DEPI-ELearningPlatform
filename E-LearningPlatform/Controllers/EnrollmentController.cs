@@ -1,13 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TechneStore.DataAccess;
+using E_LearningPlatform.DataAccess;
 using System.Collections.Generic;
 using System.Linq;
-using TechneStore.DataAccess.Repository;
-using TechneStore.DataAccess.Repository.IRepository;
+using E_LearningPlatform.DataAccess.Repository;
+using E_LearningPlatform.DataAccess.Repository.IRepository;
 using E_LearningPlatform.Models;
-namespace TechneStoreWeb.Areas.Admin.Controllers
-{
-    public class EnrollmentController : Controller
+public class EnrollmentController : Controller
     {
         private readonly IUnitOfWork unitOfWork;
 
@@ -102,4 +100,4 @@ namespace TechneStoreWeb.Areas.Admin.Controllers
             return RedirectToAction("Index");
         }
     }
-}
+

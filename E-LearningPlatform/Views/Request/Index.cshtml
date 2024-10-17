@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Request>
+
+<h2>Requests</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Request ID</th>
+            <th>User ID</th>
+            <th>Course ID</th>
+            <th>Description</th>
+            <th>Status</th>
+            <th>Creation Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var request in Model)
+        {
+            <tr>
+                <td>@request.RequestId</td>
+                <td>@request.UserId</td>
+                <td>@request.CourseId</td>
+                <td>@request.Description</td>
+                <td>@request.RequestStatus</td>
+                <td>@request.CreationDate.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@request.RequestId" class="btn btn-secondary">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@request.RequestId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,5 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace E_LearningPlatform.Models
 {
@@ -13,8 +13,7 @@ namespace E_LearningPlatform.Models
 
         [ForeignKey("Video")]
         public int VideoId { get; set; }
-        public User User { get; set; }
-
-
+        public Enrollment Enrollment { get; set; }  // Navigation Property
+        public Video Video { get; set; }  
     }
 }

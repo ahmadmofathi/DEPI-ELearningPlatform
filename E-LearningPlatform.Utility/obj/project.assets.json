@@ -4235,11 +4235,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\mk890\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\": {}
+>>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
       "projectName": "E-LearningPlatform.Utility",
       "projectPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
@@ -4248,6 +4253,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mk890\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
+      "projectName": "E-LearningPlatform.Utility",
+      "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
+      "packagesPath": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.Utility\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Mohamed Elkhodary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4261,8 +4276,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
             "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj": {
               "projectPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj"
+=======
+            "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj"
+>>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
             }
           }
         }
@@ -4314,7 +4334,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+>>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
       }
     }
   }

@@ -1,0 +1,39 @@
+﻿@model Enrollment
+
+@{
+    ViewData["Title"] = "Delete Enrollment";
+}
+
+<h2>Delete Enrollment</h2>
+
+<div class="alert alert-warning" role="alert">
+    <strong>Warning!</strong> Are you sure you want to delete this enrollment?
+</div>
+
+<form id="deleteForm" asp-action="Delete" method="post" onsubmit="return confirm('Are you sure you want to delete this enrollment?');">
+    <div class="form-group">
+        <label asp-for="UserId" class="control-label"></label>
+        <input asp-for="UserId" class="form-control" readonly />
+        <span asp-validation-for="UserId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CourseId" class="control-label"></label>
+        <input asp-for="CourseId" class="form-control" readonly />
+        <span asp-validation-for="CourseId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="StartDate" class="control-label"></label>
+        <input asp-for="StartDate" class="form-control" readonly />
+        <span asp-validation-for="StartDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Delete" class="btn btn-danger form-control" />
+    </div>
+</form>
+
+<div class="form-group mt-2">
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

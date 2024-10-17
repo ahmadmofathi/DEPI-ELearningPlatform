@@ -46,3 +46,21 @@ D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\De
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.pdb
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.genruntimeconfig.cache
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\ref\E-LearningPlatform.Utility.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\bin\Debug\net8.0\E-LearningPlatform.Utility.deps.json
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\bin\Debug\net8.0\E-LearningPlatform.Utility.runtimeconfig.json
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\bin\Debug\net8.0\E-LearningPlatform.Utility.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\bin\Debug\net8.0\E-LearningPlatform.Utility.pdb
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\bin\Debug\net8.0\E-LearningPlatform.DataAccess.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\bin\Debug\net8.0\E-LearningPlatform.DataAccess.pdb
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.csproj.AssemblyReference.cache
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.AssemblyInfoInputs.cache
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.AssemblyInfo.cs
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.sourcelink.json
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-Learni.68A24DAF.Up2Date
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\refint\E-LearningPlatform.Utility.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.pdb
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\E-LearningPlatform.Utility.genruntimeconfig.cache
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform.Utility\obj\Debug\net8.0\ref\E-LearningPlatform.Utility.dll

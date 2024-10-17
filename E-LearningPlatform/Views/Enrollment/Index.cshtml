@@ -1,0 +1,29 @@
+﻿@model IEnumerable<dynamic> 
+
+<h2>User Enrollments</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Course Name</th>
+            <th>Start Date</th>
+            <th>Progress</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var enrollment in Model)
+        {
+            <tr>
+                <td>@enrollment.CourseName</td>
+                <td>@enrollment.StartDate.ToString("dd MMM yyyy")</td>
+                <td>
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" style="width: @enrollment.Progress%" aria-valuenow="@enrollment.Progress" aria-valuemin="0" aria-valuemax="100">
+                            @enrollment.Progress%
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

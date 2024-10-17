@@ -11,5 +11,9 @@ namespace E_LearningPlatform.Context
         public AccountDbContext(DbContextOptions<AccountDbContext> options) : base(options) { }
 
         public DbSet<Account> Accounts { get; set; }
+
+       
+
+
     }
 }

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.Web.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mk890\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
+        "projectName": "E-LearningPlatform.DataAccess",
+        "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohamed Elkhodary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,6 +98,7 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
@@ -96,6 +114,23 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mk890\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
+        "projectName": "E-LearningPlatform.Utility",
+        "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
+        "packagesPath": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohamed Elkhodary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -109,8 +144,13 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj": {
                 "projectPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj"
+=======
+              "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj"
+>>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
               }
             }
           }
@@ -162,6 +202,7 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
@@ -177,6 +218,23 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mk890\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.Web.csproj",
+        "projectName": "E-LearningPlatform.Web",
+        "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.Web.csproj",
+        "packagesPath": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohamed Elkhodary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -190,8 +248,13 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj": {
                 "projectPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj"
+=======
+              "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj": {
+                "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj"
+>>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
               }
             }
           }
@@ -258,7 +321,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+>>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
         }
       }
     }

@@ -22,10 +22,10 @@ public class EnrollmentController : Controller
 
         public IActionResult Create()
         {
-            return View();
+                 return Redirect("/Request/Create");
         }
 
-        [HttpPost]
+    [HttpPost]
         public IActionResult Create(Enrollment enrollment)
         {
             if (ModelState.IsValid)

@@ -1,22 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.Web.csproj": {}
-  },
-  "projects": {
-    "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
-        "projectName": "E-LearningPlatform.DataAccess",
-        "projectPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\mk890\\.nuget\\packages\\",
-        "outputPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\mk890\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
     "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.Web.csproj": {}
   },
   "projects": {
@@ -31,7 +15,6 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohamed Elkhodary\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -51,12 +35,21 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -98,23 +91,6 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
-        "projectName": "E-LearningPlatform.Utility",
-        "projectPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj",
-        "packagesPath": "C:\\Users\\mk890\\.nuget\\packages\\",
-        "outputPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\mk890\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
@@ -130,7 +106,6 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohamed Elkhodary\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -138,19 +113,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-<<<<<<< HEAD
-              "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj": {
-                "projectPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj"
-=======
               "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj": {
                 "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj"
->>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
               }
             }
           }
@@ -159,6 +130,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -202,23 +178,6 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.Web.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.Web.csproj",
-        "projectName": "E-LearningPlatform.Web",
-        "projectPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\E-LearningPlatform.Web.csproj",
-        "packagesPath": "C:\\Users\\mk890\\.nuget\\packages\\",
-        "outputPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\mk890\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
@@ -234,7 +193,6 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohamed Elkhodary\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -242,19 +200,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-<<<<<<< HEAD
-              "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj": {
-                "projectPath": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj"
-=======
               "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj": {
                 "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.Utility\\E-LearningPlatform.Utility.csproj"
->>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
               }
             }
           }
@@ -263,6 +217,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -321,11 +280,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
->>>>>>> aac539ad1f62b6fb3448e4873e04a2b22661a2cb
         }
       }
     }

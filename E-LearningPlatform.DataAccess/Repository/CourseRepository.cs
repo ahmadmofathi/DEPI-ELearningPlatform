@@ -20,5 +20,10 @@ namespace E_LearningPlatform.DataAccess.Repository
         {
             _db.Update(course);
         }
+        public Course Get(int id)
+        {
+            return _db.Courses.Find(id); 
+        }
+
     }
 }

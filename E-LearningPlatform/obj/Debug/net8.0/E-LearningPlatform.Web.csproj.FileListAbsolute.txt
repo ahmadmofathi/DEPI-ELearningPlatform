@@ -838,3 +838,10 @@ C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPl
 C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.pdb
 C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.genruntimeconfig.cache
 C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\obj\Debug\net8.0\ref\E-LearningPlatform.Web.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll

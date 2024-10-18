@@ -31,6 +31,11 @@ namespace E_LearningPlatform.DataAccess.Repository
             return query.FirstOrDefault();
         }
 
+        public T Get(int id)
+        {
+            return dbSet.Find(id);
+        }
+
         public IEnumerable<T> GetAll()
         {
             IQueryable<T> query = dbSet;

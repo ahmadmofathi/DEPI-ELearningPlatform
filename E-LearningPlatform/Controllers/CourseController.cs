@@ -1,7 +1,7 @@
 ﻿using E_LearningPlatform.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using TechneStore.DataAccess.Repository.IRepository;
+using E_LearningPlatform.DataAccess.Repository.IRepository;
 
 namespace E_LearningPlatform.Controllers
 {

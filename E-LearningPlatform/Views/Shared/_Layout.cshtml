@@ -49,9 +49,11 @@
                             <li><a href="#courses">Our Courses</a></li>
                             <li><a href="#instructors">Our Instructors</a></li>
                             <li><a href="#categories">Categories</a></li>
+                            
                             @if (User.Identity.IsAuthenticated)
                             {
                                 <li>@User.Identity.Name</li>
+                                <li><a asp-controller="Account" asp-action="Logout">Log out</a></li>
                                 
                             }else{
                             <li><a asp-controller="Account" asp-action="Login">Log In</a></li>
@@ -88,6 +90,11 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="/js/isotope.min.js"></script>
+    <script src="/js/owl-carousel.js"></script>
+    <script src="/js/counter.js"></script>
+    <script src="/js/custom.js"></script>
+
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

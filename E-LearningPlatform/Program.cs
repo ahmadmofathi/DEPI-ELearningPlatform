@@ -20,6 +20,9 @@ builder.Services.AddDbContext<AccountDbContext>(options =>
 builder.Services.AddScoped<IRepository<User>, Repository<User>>();
 builder.Services.AddScoped<IGenericService<User>, GenericService<User>>();
 
+builder.Services.AddScoped<IRepository<Instructor>, Repository<Instructor>>();
+builder.Services.AddScoped<IGenericService<Instructor>, GenericService<Instructor>>();
+
 // Register Unit of Work
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 

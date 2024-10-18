@@ -11,9 +11,13 @@ namespace E_LearningPlatform.DataAccess.ViewModels
     {
         public int Id { get; set; }
         [Required]
+        [Display(Name = "User Name")]
         public string Name { get; set; }
+        public string fristName {  get; set; }
+        public string lastName {  get; set; }
         [Required]
         [DataType(DataType.EmailAddress)]
+
         public string Email { get; set; }
         [Required]
         [DataType(DataType.Password)]

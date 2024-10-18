@@ -1,0 +1,42 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "GetCourseDeatails";
+}
+
+<div class="page-heading header-text">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h3>@Model.CourseName</h3>
+                <span class="breadcrumb"><a href="#">Home</a>  >  <a href="#">Shop</a>  > @Model.CourseName</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="single-product section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="left-image">
+                    <img src="/Images/prgramming.jpg" alt="">
+                </div>
+            </div>
+            <div class="col-lg-6 align-self-center">
+                <h4>@Model.CourseName</h4>
+                <span class="price">$@Model.Price</span>
+                <p>@Model.Price</p>
+                <form id="qty" action="#">
+
+                    <button type="submit" asp-action="AssignRequest" asp-controller="Request" asp-route-id="@Model.CourseId"><i class="fa fa-shopping-bag"></i> ADD TO CART</button>
+                </form>
+                <ul>
+                    <li><span>Course ID:</span>  @Model.CourseId</li>
+                    <li><span>Category:</span> @Model.CategoryId</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+

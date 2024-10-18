@@ -112,5 +112,7 @@ namespace E_LearningPlatformWeb.Areas.Admin.Controllers
             TempData["success"] = "Request Deleted Successfully";
             return RedirectToAction("Index");
         }
+        
+
     }
 }

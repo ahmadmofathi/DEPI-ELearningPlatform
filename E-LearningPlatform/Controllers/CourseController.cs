@@ -1,7 +1,8 @@
-﻿using E_LearningPlatform.Models;
+﻿using E_LearningPlatform.DataAccess.Repository.IRepository;
+using E_LearningPlatform.DataAccess.ViewModels;
+using E_LearningPlatform.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using TechneStore.DataAccess.Repository.IRepository;
 
 namespace E_LearningPlatform.Controllers
 {
@@ -17,6 +18,7 @@ namespace E_LearningPlatform.Controllers
         public IActionResult Index()
         {
             List<Course> courses = unitOfWork.Course.GetAll().ToList();
+            
             return View(courses);
         }
 
@@ -30,7 +32,7 @@ namespace E_LearningPlatform.Controllers
         [HttpPost]
         public IActionResult Create(Course course)
         {
-            if (ModelState.IsValid)
+            if (course!=null)
             {
                 unitOfWork.Course.Add(course);
                 unitOfWork.Save();
@@ -61,7 +63,7 @@ namespace E_LearningPlatform.Controllers
         [HttpPost]
         public IActionResult Edit(Course course)
         {
-            if (ModelState.IsValid)
+            if (course!=null)
             {
                 unitOfWork.Course.Update(course);
                 unitOfWork.Save();
@@ -101,6 +103,35 @@ namespace E_LearningPlatform.Controllers
             unitOfWork.Save();
             TempData["success"] = "Enrollment Deleted Successfully";
             return RedirectToAction("Index");
+        }
+        public IActionResult GetAllUsersCourses()
+        {
+
+            var courses=unitOfWork.Course.GetAll();
+            return View(courses);
+        }
+        public IActionResult GetCourseDeatails(int id )
+        {
+            var course =unitOfWork.Course.Get(e=>e.CourseId == id);
+
+            if (course !=null)
+            {
+                return View(course);
+
+            }
+            return RedirectToAction("index","Home");
+        }
+
+        public IActionResult AssignRequest(int id)
+        {
+            Request request = new Request();
+            request.CourseId = id;
+            request.CreationDate = DateTime.Now;
+            request.RequestStatus = "pending";
+            request.Description = "enrollment Request";
+            unitOfWork.Request.Add(request);
+            return View("Index","Home");
+
         }
     }
 }

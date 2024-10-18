@@ -2,6 +2,7 @@
 using E_LearningPlatform.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages;
 
 namespace E_LearningPlatform.Controllers
@@ -34,7 +35,7 @@ namespace E_LearningPlatform.Controllers
         [HttpPost]
         public async Task<IActionResult> SaveRegister(RegisterVM NewUser)
         {
-            Account user1 = new Account() { UserName = NewUser.Name, Email = NewUser.Email };
+            Account user1 = new Account() { UserName = NewUser.Name, Email = NewUser.Email,FirstName=NewUser.fristName,LastName=NewUser.lastName };
             IdentityResult result = await _userManager.CreateAsync(user1, NewUser.Password);
             IdentityRole role1 = new IdentityRole() { Name = "defualt User" };
             await _roleManager.CreateAsync(role1);
@@ -74,6 +75,32 @@ namespace E_LearningPlatform.Controllers
             await _signInManager.SignOutAsync();
             return RedirectToAction("Index", "Home");
         }
+        [HttpGet]
+        public async Task<IActionResult> Assign(string id)
+        {
+            var user = await _userManager.FindByIdAsync(id);
+            ViewData["Role"] = new SelectList(_roleManager.Roles, "Id", "Name");
+            UserRoleVM Ur = new UserRoleVM()
+            {
+                UserId = user.Id,
+                UserName = user.UserName
+            };
+            return View(Ur);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Assign(UserRoleVM UR)
+        {
+            var user = await _userManager.FindByIdAsync(UR.UserId);
+            var role1 = await _roleManager.FindByIdAsync(UR.RoleId);
+            var resualt = await _userManager.AddToRoleAsync(user, role1.Name);
+            if (resualt.Succeeded)
+            {
+                return RedirectToAction("Index");
+            }
+            ViewData["Role"] = new SelectList(_roleManager.Roles, "Id", "Name");
+            return View(UR);
+        }
+
 
         public IActionResult Index()
         {

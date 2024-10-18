@@ -10,11 +10,8 @@
                     <h6>Welcome to LearnX</h6>
                     <h2>Your Gateway to Quality Online Education!</h2>
                     <p>LearnX is the best e-learning platform that offers a wide range of courses to help you expand your knowledge and skills. Join thousands of learners worldwide and start your journey to success. Sign up today and get access to high-quality educational content.</p>
-                    <div class="search-input">
-                        <form id="search" action="#">
-                            <input type="text" placeholder="Search for courses, topics, or instructors" id='searchText' name="searchKeyword" />
-                            <button role="button">Search Courses</button>
-                        </form>
+                    <div class="main-button">
+                        <a asp-action="GetAllUsersCourses" asp-controller="Course">Browse Courses</a>
                     </div>
                 </div>
             </div>
@@ -91,58 +88,58 @@
             </div>
             <div class="col-lg-6">
                 <div class="main-button">
-                    <a asp-controller="Courses" asp-action="Index">View All</a>
+                    <a asp-controller="Course" asp-action="GetAllUsersCourses">View All</a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/html.jpg" alt=""></a>
+                        <a asp-action="GetCourseDeatails" asp-controller="Course" id="=1"><img src="images/html.jpg" alt=""></a>
                         <span class="price"><em>$28</em>$20</span>
                     </div>
                     <div class="down-content">
                         <span class="category">Front-end Development</span>
                         <h4>HTML</h4>
-                        <a href="product-details.html"><i class="fa fa-shopping-bag"></i></a>
+                        <a asp-action="GetCourseDeatails" asp-controller="Course"><i class="fa fa-shopping-bag"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/prgramming.jpg" alt=""></a>
+                        <a asp-action="GetCourseDeatails" asp-controller="Course"><img src="images/prgramming.jpg" alt=""></a>
                         <span class="price">$44</span>
                     </div>
                     <div class="down-content">
                         <span class="category">Programming</span>
                         <h4>C# Basics</h4>
-                        <a href="product-details.html"><i class="fa fa-shopping-bag"></i></a>
+                        <a asp-action="GetCourseDeatails" asp-controller="Course"><i class="fa fa-shopping-bag"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/mobile.jpg" alt=""></a>
+                        <a asp-action="GetCourseDeatails" asp-controller="Course"><img src="images/mobile.jpg" alt=""></a>
                         <span class="price"><em>$64</em>$44</span>
                     </div>
                     <div class="down-content">
                         <span class="category">Mobile Development</span>
                         <h4>Flutter</h4>
-                        <a href="product-details.html"><i class="fa fa-shopping-bag"></i></a>
+                        <a asp-action="GetCourseDeatails" asp-controller="Course"><i class="fa fa-shopping-bag"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="item">
                     <div class="thumb">
-                        <a href="product-details.html"><img src="images/networks.jpg" alt=""></a>
+                        <a asp-action="GetCourseDeatails" asp-controller="Course"><img src="images/networks.jpg" alt=""></a>
                         <span class="price">$32</span>
                     </div>
                     <div class="down-content">
                         <span class="category">Networks</span>
                         <h4>CCNA</h4>
-                        <a href="product-details.html"><i class="fa fa-shopping-bag"></i></a>
+                        <a asp-action="GetCourseDeatails" asp-controller="Course"><i class="fa fa-shopping-bag"></i></a>
                     </div>
                 </div>
             </div>
@@ -306,7 +303,7 @@
                             </div>
                             <p>Stay ahead of the curve with our pre-registration offers on the latest courses in web development, data science, design, and more.</p>
                             <div class="main-button">
-                                <a href="courses.html">Browse Courses</a>
+                                <a asp-action="GetAllUsersCourses" asp-controller="Course">Browse Courses</a>
                             </div>
                         </div>
                     </div>
@@ -320,12 +317,7 @@
                                 <h6>NEWSLETTER</h6>
                                 <h2>Get the Latest <em>Course Updates</em> and Exclusive Offers!</h2>
                             </div>
-                            <div class="search-input">
-                                <form id="subscribe" action="#">
-                                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email...">
-                                    <button type="submit">Subscribe Now</button>
-                                </form>
-                            </div>
+                          
                         </div>
                     </div>
                 </div>

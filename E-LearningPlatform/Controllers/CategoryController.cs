@@ -1,6 +1,6 @@
-﻿using E_LearningPlatform.Models;
+﻿using E_LearningPlatform.DataAccess.Repository.IRepository;
+using E_LearningPlatform.Models;
 using Microsoft.AspNetCore.Mvc;
-using TechneStore.DataAccess.Repository.IRepository;
 
 namespace E_LearningPlatform.Controllers
 {
@@ -27,7 +27,7 @@ namespace E_LearningPlatform.Controllers
         [HttpPost]
         public IActionResult Create(Category category)
         {
-            if (ModelState.IsValid)
+            if (category != null)
             {
                 unitOfWork.Category.Add(category);
                 unitOfWork.Save();
@@ -57,7 +57,7 @@ namespace E_LearningPlatform.Controllers
         [HttpPost]
         public IActionResult Edit(Category category)
         {
-            if (ModelState.IsValid)
+            if (category!=null)
             {
                 unitOfWork.Category.Update(category);
                 unitOfWork.Save();

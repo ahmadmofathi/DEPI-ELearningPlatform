@@ -2,6 +2,10 @@
 using E_LearningPlatform.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+<<<<<<< HEAD
+=======
+using E_LearningPlatform.DataAccess.Repository.IRepository;
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
 
 namespace E_LearningPlatform.Controllers
 {
@@ -16,8 +20,8 @@ namespace E_LearningPlatform.Controllers
 
         public IActionResult Index()
         {
-            List<Video> viedos = unitOfWork.Video.GetAll().ToList();
-            return View(viedos);
+            List<Video> videos = unitOfWork.Video.GetAll().ToList();
+            return View(videos);
         }
 
         public IActionResult Create()

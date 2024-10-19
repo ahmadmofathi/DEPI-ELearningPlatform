@@ -5,7 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using E_LearningPlatform.DataAccess.Repository.IRepository;
 using E_LearningPlatform.DataAccess.Context;
+<<<<<<< HEAD
 using E_LearningPlatform.DataAccess.Repository.IRepository;
+=======
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
 using E_LearningPlatform.DataAccess.Repository;
 
 namespace E_LearningPlatform.DataAccess.Repository

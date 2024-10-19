@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mk890\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
+        "projectName": "E-LearningPlatform.DataAccess",
+        "projectPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\E-LearningPlatform.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohamed Elkhodary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +39,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,12 +52,21 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -81,7 +108,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
         }
       }
     }

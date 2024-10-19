@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 using E_LearningPlatform.DataAccess.Context;
 using E_LearningPlatform.DataAccess.Repository.IRepository;
 using E_LearningPlatform.Models;
+<<<<<<< HEAD
 using E_LearningPlatform.DataAccess.Repository.IRepository;
+=======
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
 
 namespace E_LearningPlatform.DataAccess.Repository
 {

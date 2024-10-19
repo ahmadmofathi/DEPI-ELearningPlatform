@@ -17,12 +17,17 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = E_LearningPlatform
 build_property.RootNamespace = E_LearningPlatform
+<<<<<<< HEAD
 build_property.ProjectDir = D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform\
+=======
+build_property.ProjectDir = C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform
 build_property._RazorSourceGeneratorDebug = 
 
@@ -187,5 +192,155 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Depi online learning/DEPI-ELearningPlatform/E-LearningPlatform/Views/Shared/_Layout.cshtml]
+=======
+build_property.MSBuildProjectDirectory = C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Course/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Course/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Course/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Enrollment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5yb2xsbWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Enrollment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5yb2xsbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Instructors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Instructors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Instructors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Instructors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Instructors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Request/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Request/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Request/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Request/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/video/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmlkZW9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/video/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmlkZW9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/video/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmlkZW9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/video/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmlkZW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Elkhodary/Desktop/learning/NDEPI-ELearningPlatform/E-LearningPlatform/Views/Shared/_Layout.cshtml]
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vub3lji78z

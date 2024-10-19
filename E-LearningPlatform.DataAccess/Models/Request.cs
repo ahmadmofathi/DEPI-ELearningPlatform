@@ -18,5 +18,7 @@ namespace E_LearningPlatform.Models
         public string Description { get; set; }
         public string RequestStatus { get; set; }
         public DateTime CreationDate { get; set; }
+        public Course Course { get; set; } // Add this line
+
     }
 }

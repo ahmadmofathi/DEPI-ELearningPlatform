@@ -560,6 +560,7 @@ C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPl
 C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.pdb
 C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.genruntimeconfig.cache
 C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\obj\Debug\net8.0\ref\E-LearningPlatform.Web.dll
+<<<<<<< HEAD
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\appsettings.Development.json
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\appsettings.json
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\E-LearningPlatform.Web.staticwebassets.runtime.json
@@ -838,3 +839,12 @@ D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform\obj\Debug\net8
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.pdb
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform\obj\Debug\net8.0\E-LearningPlatform.Web.genruntimeconfig.cache
 D:\Depi online learning\DEPI-ELearningPlatform\E-LearningPlatform\obj\Debug\net8.0\ref\E-LearningPlatform.Web.dll
+=======
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Users\Mohamed Elkhodary\Desktop\learning\NDEPI-ELearningPlatform\E-LearningPlatform\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc

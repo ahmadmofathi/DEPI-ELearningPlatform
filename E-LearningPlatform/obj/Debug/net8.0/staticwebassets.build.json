@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "p7nwXf4yO7b11il/geUoYO5OO9jHUCMGU5Z/OKu+3Ds=",
+=======
+  "Hash": "215HyP4F50SnmJlFBOFqvRlrcfnVycCmZ6kc5TgqjWo=",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
   "Source": "E-LearningPlatform.Web",
   "BasePath": "_content/E-LearningPlatform.Web",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "E-LearningPlatform.Web\\wwwroot",
       "Source": "E-LearningPlatform.Web",
+<<<<<<< HEAD
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\mk890\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.10\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\mk890\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.10\\staticwebassets\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.10\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.10\\staticwebassets\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "AssetKind": "All",
@@ -33,6 +48,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\mk890\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.10\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
     },
     {
@@ -40,6 +56,15 @@
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\mk890\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.10\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.10\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.10\\staticwebassets\\QuickGrid.razor.js",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.10\\staticwebassets\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "QuickGrid.razor.js",
       "AssetKind": "All",
@@ -52,6 +77,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\mk890\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.10\\staticwebassets\\QuickGrid.razor.js"
     },
     {
@@ -59,6 +85,15 @@
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\Mohamed Elkhodary\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.10\\staticwebassets\\QuickGrid.razor.js"
+    },
+    {
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-LearningPlatform.Web.styles.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "E-LearningPlatform.Web.styles.css",
       "AssetKind": "All",
@@ -71,6 +106,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-LearningPlatform.Web.styles.css"
     },
     {
@@ -78,6 +114,15 @@
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-LearningPlatform.Web.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-LearningPlatform.Web.bundle.scp.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "E-LearningPlatform.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -90,6 +135,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-LearningPlatform.Web.bundle.scp.css"
     },
     {
@@ -97,6 +143,15 @@
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-LearningPlatform.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\css\\animate.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "css/animate.css",
       "AssetKind": "All",
@@ -112,10 +167,17 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\css\\flex-slider.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\css\\flex-slider.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "css/flex-slider.css",
       "AssetKind": "All",
@@ -131,10 +193,17 @@
       "OriginalItemSpec": "wwwroot\\css\\flex-slider.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\css\\fontawesome.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\css\\fontawesome.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "css/fontawesome.css",
       "AssetKind": "All",
@@ -150,10 +219,17 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\css\\owl.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\css\\owl.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "css/owl.css",
       "AssetKind": "All",
@@ -169,10 +245,17 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\css\\site.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\css\\site.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -188,10 +271,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\css\\templatemo-lugx-gaming.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\css\\templatemo-lugx-gaming.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "css/templatemo-lugx-gaming.css",
       "AssetKind": "All",
@@ -207,10 +297,17 @@
       "OriginalItemSpec": "wwwroot\\css\\templatemo-lugx-gaming.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\favicon.ico",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\favicon.ico",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -226,10 +323,17 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\1263.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\1263.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/1263.jpg",
       "AssetKind": "All",
@@ -245,10 +349,17 @@
       "OriginalItemSpec": "wwwroot\\images\\1263.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\A1.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\A1.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/A1.jpg",
       "AssetKind": "All",
@@ -264,10 +375,17 @@
       "OriginalItemSpec": "wwwroot\\images\\A1.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\A2.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\A2.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/A2.jpg",
       "AssetKind": "All",
@@ -283,10 +401,17 @@
       "OriginalItemSpec": "wwwroot\\images\\A2.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\A3.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\A3.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/A3.jpg",
       "AssetKind": "All",
@@ -302,10 +427,17 @@
       "OriginalItemSpec": "wwwroot\\images\\A3.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\A4.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\A4.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/A4.jpg",
       "AssetKind": "All",
@@ -321,10 +453,17 @@
       "OriginalItemSpec": "wwwroot\\images\\A4.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\banner-bg.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\banner-bg.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/banner-bg.jpg",
       "AssetKind": "All",
@@ -340,10 +479,17 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-bg.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\banner-image.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\banner-image.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/banner-image.jpg",
       "AssetKind": "All",
@@ -359,10 +505,17 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-image.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\caption-dec.png",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\caption-dec.png",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/caption-dec.png",
       "AssetKind": "All",
@@ -378,10 +531,17 @@
       "OriginalItemSpec": "wwwroot\\images\\caption-dec.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\categories-01.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\categories-01.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/categories-01.jpg",
       "AssetKind": "All",
@@ -397,10 +557,17 @@
       "OriginalItemSpec": "wwwroot\\images\\categories-01.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\categories-02.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\categories-02.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/categories-02.jpg",
       "AssetKind": "All",
@@ -416,10 +583,17 @@
       "OriginalItemSpec": "wwwroot\\images\\categories-02.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\categories-03.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\categories-03.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/categories-03.jpg",
       "AssetKind": "All",
@@ -435,10 +609,17 @@
       "OriginalItemSpec": "wwwroot\\images\\categories-03.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\categories-04.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\categories-04.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/categories-04.jpg",
       "AssetKind": "All",
@@ -454,10 +635,17 @@
       "OriginalItemSpec": "wwwroot\\images\\categories-04.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\categories-05.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\categories-05.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/categories-05.jpg",
       "AssetKind": "All",
@@ -473,10 +661,17 @@
       "OriginalItemSpec": "wwwroot\\images\\categories-05.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\cta-bg.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\cta-bg.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/cta-bg.jpg",
       "AssetKind": "All",
@@ -492,10 +687,17 @@
       "OriginalItemSpec": "wwwroot\\images\\cta-bg.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\featured-01.png",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\featured-01.png",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/featured-01.png",
       "AssetKind": "All",
@@ -511,10 +713,17 @@
       "OriginalItemSpec": "wwwroot\\images\\featured-01.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\featured-02.png",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\featured-02.png",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/featured-02.png",
       "AssetKind": "All",
@@ -530,10 +739,17 @@
       "OriginalItemSpec": "wwwroot\\images\\featured-02.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\featured-03.png",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\featured-03.png",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/featured-03.png",
       "AssetKind": "All",
@@ -549,10 +765,17 @@
       "OriginalItemSpec": "wwwroot\\images\\featured-03.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\featured-04.png",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\featured-04.png",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/featured-04.png",
       "AssetKind": "All",
@@ -568,10 +791,17 @@
       "OriginalItemSpec": "wwwroot\\images\\featured-04.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\footer-bg.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\footer-bg.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/footer-bg.jpg",
       "AssetKind": "All",
@@ -587,10 +817,17 @@
       "OriginalItemSpec": "wwwroot\\images\\footer-bg.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\html.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\html.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/html.jpg",
       "AssetKind": "All",
@@ -606,10 +843,17 @@
       "OriginalItemSpec": "wwwroot\\images\\html.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\logo.png",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\logo.png",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -625,10 +869,17 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\M1.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\M1.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/M1.jpg",
       "AssetKind": "All",
@@ -644,10 +895,17 @@
       "OriginalItemSpec": "wwwroot\\images\\M1.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\M2.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\M2.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/M2.jpg",
       "AssetKind": "All",
@@ -663,10 +921,17 @@
       "OriginalItemSpec": "wwwroot\\images\\M2.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\mobile.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\mobile.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/mobile.jpg",
       "AssetKind": "All",
@@ -682,10 +947,17 @@
       "OriginalItemSpec": "wwwroot\\images\\mobile.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\networks.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\networks.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/networks.jpg",
       "AssetKind": "All",
@@ -701,10 +973,17 @@
       "OriginalItemSpec": "wwwroot\\images\\networks.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\page-heading-bg.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\page-heading-bg.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/page-heading-bg.jpg",
       "AssetKind": "All",
@@ -720,10 +999,17 @@
       "OriginalItemSpec": "wwwroot\\images\\page-heading-bg.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\prgramming.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\prgramming.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/prgramming.jpg",
       "AssetKind": "All",
@@ -739,10 +1025,17 @@
       "OriginalItemSpec": "wwwroot\\images\\prgramming.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\single-game.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\single-game.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/single-game.jpg",
       "AssetKind": "All",
@@ -758,10 +1051,17 @@
       "OriginalItemSpec": "wwwroot\\images\\single-game.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\top-game-01.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\top-game-01.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/top-game-01.jpg",
       "AssetKind": "All",
@@ -777,10 +1077,17 @@
       "OriginalItemSpec": "wwwroot\\images\\top-game-01.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\top-game-02.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\top-game-02.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/top-game-02.jpg",
       "AssetKind": "All",
@@ -796,10 +1103,17 @@
       "OriginalItemSpec": "wwwroot\\images\\top-game-02.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\top-game-03.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\top-game-03.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/top-game-03.jpg",
       "AssetKind": "All",
@@ -815,10 +1129,17 @@
       "OriginalItemSpec": "wwwroot\\images\\top-game-03.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\top-game-04.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\top-game-04.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/top-game-04.jpg",
       "AssetKind": "All",
@@ -834,10 +1155,17 @@
       "OriginalItemSpec": "wwwroot\\images\\top-game-04.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\top-game-05.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\top-game-05.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/top-game-05.jpg",
       "AssetKind": "All",
@@ -853,10 +1181,17 @@
       "OriginalItemSpec": "wwwroot\\images\\top-game-05.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\top-game-06.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\top-game-06.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/top-game-06.jpg",
       "AssetKind": "All",
@@ -872,10 +1207,17 @@
       "OriginalItemSpec": "wwwroot\\images\\top-game-06.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\trending-01.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\trending-01.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/trending-01.jpg",
       "AssetKind": "All",
@@ -891,10 +1233,17 @@
       "OriginalItemSpec": "wwwroot\\images\\trending-01.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\trending-02.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\trending-02.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/trending-02.jpg",
       "AssetKind": "All",
@@ -910,10 +1259,17 @@
       "OriginalItemSpec": "wwwroot\\images\\trending-02.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\trending-03.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\trending-03.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/trending-03.jpg",
       "AssetKind": "All",
@@ -929,10 +1285,17 @@
       "OriginalItemSpec": "wwwroot\\images\\trending-03.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\trending-04.jpg",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\images\\trending-04.jpg",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "images/trending-04.jpg",
       "AssetKind": "All",
@@ -948,10 +1311,17 @@
       "OriginalItemSpec": "wwwroot\\images\\trending-04.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\js\\counter.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\js\\counter.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "js/counter.js",
       "AssetKind": "All",
@@ -967,10 +1337,17 @@
       "OriginalItemSpec": "wwwroot\\js\\counter.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\js\\custom.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\js\\custom.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -986,10 +1363,17 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\js\\isotope.min.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\js\\isotope.min.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "js/isotope.min.js",
       "AssetKind": "All",
@@ -1005,10 +1389,17 @@
       "OriginalItemSpec": "wwwroot\\js\\isotope.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\js\\owl-carousel.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\js\\owl-carousel.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "js/owl-carousel.js",
       "AssetKind": "All",
@@ -1024,10 +1415,17 @@
       "OriginalItemSpec": "wwwroot\\js\\owl-carousel.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\js\\site.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\js\\site.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1043,10 +1441,17 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1062,10 +1467,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1081,10 +1493,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1100,10 +1519,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1119,10 +1545,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1138,10 +1571,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1157,10 +1597,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1176,10 +1623,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1195,10 +1649,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1214,10 +1675,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1233,10 +1701,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1252,10 +1727,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1271,10 +1753,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1290,10 +1779,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1309,10 +1805,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1328,10 +1831,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1347,10 +1857,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1366,10 +1883,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1385,10 +1909,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1404,10 +1935,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1423,10 +1961,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1442,10 +1987,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1461,10 +2013,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1480,10 +2039,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1499,10 +2065,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1518,10 +2091,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1537,10 +2117,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1556,10 +2143,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1575,10 +2169,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1594,10 +2195,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1613,10 +2221,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1632,10 +2247,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1651,10 +2273,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1670,10 +2299,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1689,10 +2325,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1708,10 +2351,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1727,10 +2377,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1746,10 +2403,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1765,10 +2429,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1784,10 +2455,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1803,10 +2481,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1822,10 +2507,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1841,10 +2533,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1860,10 +2559,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1879,10 +2585,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1898,10 +2611,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1917,10 +2637,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1936,10 +2663,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1955,10 +2689,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1974,10 +2715,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1993,10 +2741,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2012,10 +2767,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2031,10 +2793,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2050,10 +2819,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2069,10 +2845,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2088,10 +2871,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2107,10 +2897,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2126,10 +2923,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\swiper\\swiper.min.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\swiper\\swiper.min.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "swiper/swiper.min.css",
       "AssetKind": "All",
@@ -2145,10 +2949,17 @@
       "OriginalItemSpec": "wwwroot\\swiper\\swiper.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\swiper\\swiper-bundle.min.css",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\swiper\\swiper-bundle.min.css",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "swiper/swiper-bundle.min.css",
       "AssetKind": "All",
@@ -2164,10 +2975,17 @@
       "OriginalItemSpec": "wwwroot\\swiper\\swiper-bundle.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-brands-400.ttf",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -2183,10 +3001,17 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.ttf"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-brands-400.woff2",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -2202,10 +3027,17 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.woff2"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-regular-400.ttf",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -2221,10 +3053,17 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.ttf"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-regular-400.woff2",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -2240,10 +3079,17 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.woff2"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-solid-900.ttf",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -2259,10 +3105,17 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.ttf"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-solid-900.woff2",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -2278,10 +3131,17 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.woff2"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "webfonts/fa-v4compatibility.ttf",
       "AssetKind": "All",
@@ -2297,10 +3157,17 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-v4compatibility.ttf"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "E-LearningPlatform.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Depi online learning\\DEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
+      "SourceId": "E-LearningPlatform.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohamed Elkhodary\\Desktop\\learning\\NDEPI-ELearningPlatform\\E-LearningPlatform\\wwwroot\\",
+>>>>>>> fde47c85bdd86ad23fbfbe25812cdddda84131dc
       "BasePath": "_content/E-LearningPlatform.Web",
       "RelativePath": "webfonts/fa-v4compatibility.woff2",
       "AssetKind": "All",
